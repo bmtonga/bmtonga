@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Software Engineer. I am dedicated to bridging the gap between complex data and real-world impact by building scalable software. I am currently focused on developing technical solutions that address critical global challenges. Always eager to connect with others working at the intersection of technology, education, and development
+Full Stack Software Engineer building scalable, data-driven software for real-world impact. Focused on global challenges at the intersection of tech, education, and development. Let’s connect!
 
 
 ## 🌐 Socials:
