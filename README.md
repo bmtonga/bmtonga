@@ -3,7 +3,7 @@ Full Stack Software Engineer building scalable, data-driven software for real-wo
 
 
 ## 🌐 Socials:
-Email: bernard.mtonga@zwacha.co.zm / mtongabernard6@gmail.com
+Email: bernard.mtonga@zwacha.co.zm
 LinkedIn: Bernard K. Mtonga
 Mobile: +260 776 936 624
 
