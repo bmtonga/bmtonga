@@ -48,9 +48,9 @@
 
 ## Currently
 
-- 🌿 Building thoughtful, minimal digital experiences
-- 🌱 Learning and refining modern frontend and cloud practices
-- 💡 Focused on clean design, scalable systems, and practical problem solving
+-  Building thoughtful, minimal digital experiences
+-  Learning and refining modern frontend and cloud practices
+-  Focused on clean design, scalable systems, and practical problem solving
 
 ---
 
